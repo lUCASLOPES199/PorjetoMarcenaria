@@ -1,0 +1,41 @@
+
+input{
+   display: block;
+}
+
+.submit{
+    width: 180px;
+}
+
+form  {
+    border: 1px blue solid;
+    display: inline-block;
+    padding: 30px;
+    border-radius: 30px;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    
+    
+}
+
+H2{
+    text-align: center;
+}
+
+
+   img{
+    height:50px;
+    position: absolute;
+    top:23%;
+    left: 46%;
+
+}
+
+.submit:hover{
+
+    transition: 0.6s;
+    transform: scale(1.1);
+
+    
+}
